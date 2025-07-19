@@ -1,0 +1,6 @@
+pkgbase = ibus-mozc-bin
+	pkgver = 2.31.5851.102
+	pkgrel = 1
+	arch = any
+
+pkgname = ibus-mozc-bin
